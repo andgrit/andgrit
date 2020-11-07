@@ -4,3 +4,4 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:andgrit/andgrit.github.io.git
+	branch = master
