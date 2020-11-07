@@ -1,7 +1,8 @@
 ---
-title: "My First Post"
+title: "Hugo"
 date: 2020-11-06T17:30:45-08:00
 draft: true
 ---
-# Title
-Is this **mark** down
+- Visit https://andgrit.github.io/
+- Source in https://github.com/andgrit/andgrit see README
+- Published output in https://github.com/andgrit/andgrit.github.io never edit
